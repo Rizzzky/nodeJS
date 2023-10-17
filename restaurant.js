@@ -1,4 +1,4 @@
-const restaurant = {
+let restaurant = {
     name: "Nama Restoran",
     city: "Nama Kota",
     favoriteDrink: "Minuman Favorit",
